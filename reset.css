@@ -1,0 +1,53 @@
+/* import webfont url */
+
+/* reset CSS styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button,
+input,
+textarea {
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+button:focus, button:active,
+input:focus, input:active,
+textarea:focus, textarea:active {
+    outline: none;
+    box-shadow: none;
+}
+
+ul,
+ol,
+li {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+table {
+    border-spacing: 0;
+}
+
+table,
+tr, td {
+    margin: 0;
+    padding: 0;
+}

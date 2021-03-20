@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580.197" height="486.816" viewBox="0 0 580.197 486.816">
+  <g id="Illustration" transform="translate(-1186.427 -364.099)">
+    <circle id="타원_12" data-name="타원 12" cx="185.768" cy="185.768" r="185.768" transform="translate(1262.164 430.373)" fill="#eff8ff"/>
+    <circle id="타원_13" data-name="타원 13" cx="150.902" cy="150.902" r="150.902" transform="translate(1297.029 465.238)" fill="#eef9ff"/>
+    <path id="패스_2064" data-name="패스 2064" d="M1282.683,640.268c6.265,4.358,8.716-7.354,8.716-15.254,10.623,1.634,15.744-8.64,15.744-8.64-6.439-4.958-12.7-8.88-17.378-9.882-6.134-1.318-11.2-.076-13.979,3.465l-.033.033C1271.646,615.274,1272.6,625.635,1282.683,640.268Z" transform="translate(7.729 21.579)" fill="#b1ea8c" stroke="#002e4e" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="패스_2065" data-name="패스 2065" d="M1302.926,716.45c6.363,9.8,16.768,19.9,33.231,29.418" transform="translate(10.366 31.471)" fill="none" stroke="#002e4e" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="패스_2066" data-name="패스 2066" d="M1304.376,615.52c14.567,11.2,30.017,27.707,30.017,27.707" transform="translate(10.496 22.433)" fill="#ef7f65" stroke="#002e4e" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="패스_2067" data-name="패스 2067" d="M1270.732,651.923c10.9,27.239,9.261,26.694,6.81,36.5s-4.086,34.876,28.6,37.589c-19.111-29.429-1.634-56.112-1.634-56.112s-4.358-5.448-21.246-29.963c-10.078-14.633-11.037-24.994-6.93-30.279C1275.515,610.434,1260.119,625.4,1270.732,651.923Z" transform="translate(7.15 21.909)" fill="#b1ea8c" stroke="#002e4e" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="타원_14" data-name="타원 14" cx="2.179" cy="2.179" r="2.179" transform="translate(1302.114 665.17)" fill="#002e4e"/>
+    <circle id="타원_15" data-name="타원 15" cx="2.179" cy="2.179" r="2.179" transform="translate(1313.649 653.635)" fill="#002e4e"/>
+    <circle id="타원_16" data-name="타원 16" cx="234.253" cy="234.253" r="234.253" transform="translate(1213.679 381.888)" fill="none" stroke="#002e4e" stroke-miterlimit="10" stroke-width="1.044" stroke-dasharray="6.262"/>
+    <rect id="사각형_448" data-name="사각형 448" width="210.067" height="416.207" rx="10.333" transform="translate(1342.898 365)" fill="#fff" stroke="#002e4e" stroke-miterlimit="10" stroke-width="1.802"/>
+    <rect id="사각형_449" data-name="사각형 449" width="192.398" height="347.72" rx="4" transform="translate(1351.733 395.43)" fill="none" stroke="#002e4e" stroke-miterlimit="10" stroke-width="1.784"/>
+    <circle id="타원_17" data-name="타원 17" cx="9.269" cy="9.269" r="9.269" transform="translate(1440.626 754.161)" fill="none" stroke="#a6b7bc" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="Sign_Up" data-name="Sign Up" transform="translate(1446.081 483.444)" fill="#002e4e" font-size="25" font-family="Rubik-Regular, Rubik" letter-spacing="0.06em"><tspan x="-49.612" y="0">Sign Up</tspan></text>
+    <g id="그룹_336" data-name="그룹 336" transform="translate(1368.42 535.214)">
+      <line id="선_18" data-name="선 18" x2="159.022" transform="translate(0 22.183)" fill="none" stroke="#e8edef" stroke-miterlimit="10" stroke-width="1.802"/>
+      <text id="Name" transform="translate(0 11)" fill="#a6b7bc" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Name</tspan></text>
+    </g>
+    <g id="그룹_337" data-name="그룹 337" transform="translate(1368.42 583.154)">
+      <line id="선_19" data-name="선 19" x2="159.022" transform="translate(0 22.183)" fill="none" stroke="#e8edef" stroke-miterlimit="10" stroke-width="1.802"/>
+      <text id="Email_Address" data-name="Email Address" transform="translate(0 11)" fill="#a6b7bc" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Email Address</tspan></text>
+    </g>
+    <g id="그룹_338" data-name="그룹 338" transform="translate(1368.42 631.094)">
+      <line id="선_20" data-name="선 20" x2="159.022" transform="translate(0 22.183)" fill="none" stroke="#e8edef" stroke-miterlimit="10" stroke-width="1.802"/>
+      <text id="Password" transform="translate(0 11)" fill="#a6b7bc" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Password</tspan></text>
+    </g>
+    <rect id="사각형_450" data-name="사각형 450" width="157.984" height="27.239" rx="12.5" transform="translate(1372.571 684.806)" fill="#ef7f65" opacity="0.3"/>
+    <line id="선_21" data-name="선 21" x2="28.328" transform="translate(1433.767 380.254)" fill="#a6b7bc" stroke="#a6b7bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="사각형_451" data-name="사각형 451" transform="translate(1583.58 552.402)" fill="#fff" stroke="#002e4e" stroke-miterlimit="10" stroke-width="0.971">
+      <rect width="183.044" height="114.947" rx="13.167" stroke="none"/>
+      <rect x="0.485" y="0.485" width="182.073" height="113.976" rx="12.681" fill="none"/>
+    </g>
+    <line id="선_22" data-name="선 22" x2="135.83" transform="translate(1607.187 582.546)" fill="none" stroke="#a6b7bc" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_23" data-name="선 23" x2="102.054" transform="translate(1624.62 604.337)" fill="none" stroke="#a6b7bc" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="사각형_452" data-name="사각형 452" width="88.253" height="23.97" rx="11" transform="translate(1641.689 626.693)" fill="#80e0dd" opacity="0.25"/>
+    <path id="패스_2068" data-name="패스 2068" d="M1316.412,692.1c-7.188,0-12.507-.4-14.083-.539l1.3-15.2h0c12.325,1.043,37.217,6.774,49.217-4.658l10.52,11.046C1350.029,695.449,1333.062,692.1,1316.412,692.1Z" transform="translate(10.312 27.464)" fill="#fff"/>
+    <path id="패스_2069" data-name="패스 2069" d="M1305.254,652.4s11.708,0,8.984-7.9" transform="translate(10.574 25.028)" fill="none" stroke="#002e4e" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="사각형_453" data-name="사각형 453" width="157.984" height="27.239" rx="12.5" transform="translate(1368.939 680.969)" fill="#ef7f65"/>
+    <text id="Create_One" data-name="Create One" transform="translate(1445.425 697.53)" fill="#fff" font-size="11" font-family="Rubik-Regular, Rubik"><tspan x="-28.501" y="0">Create One</tspan></text>
+    <path id="패스_2070" data-name="패스 2070" d="M1302.926,683.957s47.668,4.086,64.828-12.257" transform="translate(10.366 27.464)" fill="none" stroke="#002e4e" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="사각형_454" data-name="사각형 454" width="88.253" height="23.97" rx="11" transform="translate(1637.979 623.946)" fill="#80e0dd"/>
+    <text id="Comfirm" transform="translate(1681.979 638.947)" fill="#fff" font-size="9" font-family="Rubik-Regular, Rubik"><tspan x="-17.726" y="0">Comfirm</tspan></text>
+    <g id="그룹_340" data-name="그룹 340" transform="translate(1187.167 394.341)">
+      <g id="그룹_339" data-name="그룹 339">
+        <rect id="사각형_455" data-name="사각형 455" width="176.507" height="61.015" rx="13.167" transform="translate(0 0.106)" fill="#fff" stroke="#002e4e" stroke-miterlimit="10" stroke-width="1.48"/>
+        <circle id="타원_18" data-name="타원 18" cx="20.701" cy="20.701" r="20.701" transform="translate(11.812 9.659)" fill="#80e0dd"/>
+        <text id="Upload_Image" data-name="Upload Image" transform="translate(62.13 34.606)" fill="#a6b7bc" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Upload Image</tspan></text>
+      </g>
+      <text id="_" data-name="" transform="translate(32.812 37.659)" fill="#fff" font-size="18" font-family="LastResort, '.LastResort'"><tspan x="-10.327" y="0"></tspan></text>
+    </g>
+  </g>
+</svg>
